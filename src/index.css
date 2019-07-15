@@ -5,20 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(9, 55, 45), rgb(48, 65, 122));
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-.blue{
-	color: blue;
-	background-color: red;
-}
-.logo{
-	width: 400px;
-	height: 300px;
-	margin: 0 auto;
-	background-color: #ccc;
 }
